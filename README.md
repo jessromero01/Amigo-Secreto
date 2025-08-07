@@ -1,4 +1,4 @@
-<h1>Amigo secreto</h1>
+<h1 align="center">Amigo secreto</h1>
 Esta es una página sencilla que permite al usuario ingresar una lista de nombres de amigos, y luego realizar un sorteo aleatorio para elegir un "amigo secreto".
   
 <h2> ¿qué es lo que hace? </h2>
@@ -15,3 +15,6 @@ Esta es una página sencilla que permite al usuario ingresar una lista de nombre
 3. Repite el paso 1 y 2 para agregar más amigos.
 4. Cuando tengas al menos un amigo en la lista, haz clic en **Sortear amigo** para elegir aleatoriamente un amigo secreto.
 5. El resultado aparecerá en la lista de resultados.
+
+<h2> funcionamiento </h2>
+<img width="1814" height="858" alt="FF" src="https://github.com/user-attachments/assets/9be9cb06-12e0-46a4-93a6-c4396e04b88c" />
