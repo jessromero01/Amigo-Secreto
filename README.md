@@ -16,6 +16,7 @@ Esta es una página sencilla que permite al usuario ingresar una lista de nombre
 4. Cuando tengas al menos un amigo en la lista, haz clic en **Sortear amigo** para elegir aleatoriamente un amigo secreto.
 5. El resultado aparecerá en la lista de resultados.
 
-<h2>Funcionalidad</h2>
+<h2> funcionalidad </h2>
+![Al no ingresar ningún nombre aparece el siguiente mensaje](assets/FP1.png)
 
 
