@@ -17,6 +17,6 @@ Esta es una página sencilla que permite al usuario ingresar una lista de nombre
 5. El resultado aparecerá en la lista de resultados.
 
 <h2> funcionalidad </h2>
-![Al no ingresar ningún nombre aparece el siguiente mensaje](assets/FP1.png)
+![Al no ingresar ningún nombre aparece el siguiente mensaje](https://github.com/jessromero01/Amigo-Secreto/blob/main/assets/FP1.png?raw=true)
 
 
